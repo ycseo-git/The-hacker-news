@@ -5,8 +5,6 @@
 ## Summary
 The identity of the Black Basta ransomware gang leader has been confirmed by law enforcement in Ukraine and Germany, and the individual has been added to the wanted list of Europol and Interpol.
 
-랜섬웨어 그룹  Black Basta의 리더의 신원이 우크라이나와 독일의 법 집행 기관에 의해 확인됐으며, 해당 인물이 유로폴과 인터폴의 지명수배 목록에 오른 것으로 드러났다.
-
 Germany's Federal Criminal Police Office (BKA) identified Oleg Evgenievich Nefedov, a 35-year-old Russian national, as the leader of the Black Basta ransomware gang.
 
 The Ukranian police in collaboration with German authorities also identified two additional individuals allegedly working for the ransomware operation and conducted raids at two locations in the Ivano-Frankivsk and Lviv regions.
