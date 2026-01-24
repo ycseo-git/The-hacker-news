@@ -20,11 +20,7 @@ During the raids at the locations of the two suspected members of the Russian-af
 While Nefedov is believed to be the founder and leader of Black Basta, there is also credible evidence linking him to Conti, a now-defunct ransomware syndicate that emerged in 2020 as a successor to Ryuk.
 
 ## Black Basta
-After Conti shut down, it split into smaller cells that infiltrated other ransomware operations or took over existing ones. One of the new operations was Black Basta, considered a rebranding of the old Conti.
-
-The ransomware-as-a-service(RaaS) operation emerged in April 2022 and is believed to be responsible for at least 600 ransomware incidents, data theft, and extortion targeting large organizations worldwide.
-
-Notable victims include German defense contractor Rheinmetall, Hyundai's European division, BT Group(formerly British Telecom), and others.
+After Conti shut down, it split into smaller cells that infiltrated other ransomware operations or took over existing ones. One of the new operations was Black Basta, considered a rebranding of the old Conti. The ransomware-as-a-service(RaaS) operation emerged in April 2022 and is believed to be responsible for at least 600 ransomware incidents, data theft, and extortion targeting large organizations worldwide. Notable victims include German defense contractor Rheinmetall, Hyundai's European division, BT Group(formerly British Telecom), and others.
 
 ## Tag
 \# Ransomware \# Raas \# Oleg \# Russia \# Black-Basta \# LE

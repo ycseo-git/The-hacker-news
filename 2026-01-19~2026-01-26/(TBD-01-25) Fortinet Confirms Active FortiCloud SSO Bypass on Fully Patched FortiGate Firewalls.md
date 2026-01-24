@@ -12,4 +12,4 @@
 \# 
 
 ## Reference
-https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html
+https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html
